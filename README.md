@@ -3,6 +3,9 @@
 A personal portfolio website showcasing my projects, technical skills, certifications, and resume — designed to highlight my professional profile in a clean and responsive way.
 Built using HTML, CSS, and JavaScript, and hosted on GitHub Pages for fast and reliable static deployment.
 
+# My portfolio LIVE
+https://portfolio-website-eight-beta-70.vercel.app/
+
 # Features
 
 1. Fully responsive UI for desktop and mobile devices
@@ -41,8 +44,6 @@ cd portfolio-website
 start index.html   # Windows
 open index.html    # macOS
 xdg-open index.html # Linux
-
-
 
 # If you’d like to connect:
 
