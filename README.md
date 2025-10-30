@@ -20,9 +20,6 @@ Built using HTML, CSS, and JavaScript, and hosted on GitHub Pages for fast and r
 # Frontend:
 HTML5, CSS3, JavaScript
 
-# Hosting:
-GitHub Page
-
 # Cloud Storage:
 Azure Blob Storage (for resume and assets)
 
@@ -46,7 +43,6 @@ open index.html    # macOS
 xdg-open index.html # Linux
 
 
-# View Live Portfolio
 
 # If you’d like to connect:
 
